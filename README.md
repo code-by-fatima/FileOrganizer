@@ -61,18 +61,6 @@ script that actually runs it.
    python main.py my_downloads sorted_downloads
    ```
 
-## Folder Structure
-
-```
-FileOrganizer/
-  |-- main.py             # entry point, run this to organize files
-  |-- organizer.py         # FileOrganizer class (OOP logic)
-  |-- report.txt            # generated summary report (after running)
-  |-- README.md
-  |-- sample_files/         # sample input files used for testing
-  |-- organized_files/      # output: files sorted into category folders
-```
-
 ## Concepts Covered
 
 - Python fundamentals
