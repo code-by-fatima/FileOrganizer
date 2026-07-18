@@ -1,0 +1,34 @@
+**Citation:** Not provided in the partial summaries.  
+**Court:** Supreme Court of Pakistan (inferred from the role of the analyst).  
+**Bench:** Not specified.  
+**Author Judge:** Not specified.  
+**Case Type:** Civil Appeal (inferred from "instant appeal").  
+**Decision:** Appeal allowed; impugned judgment set aside.  
+**Petitioner:** Appellant (not named).  
+**Respondents:** Complainant (not named).  
+
+**Facts:**  
+The appellant challenged a judgment of the Consumer Protection Court concerning a complaint of alleged medical negligence. The Court found that the Consumer Protection Court lacked jurisdiction to adjudicate the matter, as the Khyber Pakhtunkhwa Healthcare Commission (HCC) is the specialized statutory forum for such complaints under section 13 of the HCC Act. The HCC Act, being a subsequent special law with overriding effect, prevails over the Consumer Act, which provides only an additional remedy. The Court also noted procedural issues, including whether the appellant was afforded a fair opportunity of hearing.  
+
+**Issues:**  
+1. Whether the Consumer Protection Court has jurisdiction to hear complaints of medical negligence.  
+2. Whether the appellant was afforded a fair opportunity of hearing before the Consumer Protection Court.  
+3. Whether the HCC is the exclusive forum for adjudicating medical negligence complaints under the HCC Act.  
+
+**Principles Held (Ratio Decendi):**  
+1. The Consumer Protection Court lacks jurisdiction over medical negligence complaints, as such matters fall exclusively within the purview of the Khyber Pakhtunkhwa Health Care Commission (HCC) under section 13 of the HCC Act.  
+2. The HCC Act, being a subsequent special law with an overriding effect, prevails over the Consumer Act, which provides only an additional remedy.  
+3. The HCC is the sole competent forum to investigate allegations of medical malpractice, maladministration, and quackery.  
+4. The appellant was not afforded a fair opportunity of hearing, necessitating a remand for fresh proceedings.  
+
+**Consequences:**  
+1. The impugned judgment of the Consumer Protection Court is set aside.  
+2. The complaint is to be returned to the complainant for presentation before the HCC.  
+3. The HCC is directed to decide the matter within thirty days of receipt, in accordance with law and with due regard to the observations in paragraph No. 14 of the judgment.  
+4. The HCC is further directed to examine the appellant’s qualifications and compliance with ethical standards under the Pakistan Medical and Dental Council Act, 2022, including valid PMDC registration, disclosure of registration numbers on prescriptions, and prohibition of displaying unregistered qualifications.  
+5. The HCC shall enforce rational prescribing practices, including generic prescribing, to safeguard patient welfare and public confidence in the healthcare system.  
+
+**Judgments/Sources Relied Upon:**  
+- Khyber Pakhtunkhwa Health Care Commission Act (HCC Act), particularly section 13.  
+- Pakistan Medical and Dental Council Act, 2022.  
+- Consumer Protection Act (as providing an additional remedy, not overriding the HCC Act).

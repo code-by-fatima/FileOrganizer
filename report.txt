@@ -1,0 +1,30 @@
+FILE ORGANIZER - SUMMARY REPORT
+========================================
+Timestamp of execution : 2026-07-18 10:20:45
+Source folder          : sample_files
+Destination folder     : organized_files
+Total files processed  : 15
+
+Files per category:
+  - Documents: 11
+  - Images: 1
+  - PDFs: 1
+  - Scripts: 1
+  - Spreadsheets: 1
+
+List of moved files:
+  - 987 M L D 434.html  ->  [Documents]  organized_files/Documents/987 M L D 434.html
+  - 980 C L C 895.html  ->  [Documents]  organized_files/Documents/980 C L C 895.html
+  - Labour-Appeal-No.28-P2024-Asim-Nisar-Vs_summary.txt  ->  [Documents]  organized_files/Documents/Labour-Appeal-No.28-P2024-Asim-Nisar-Vs_summary.txt
+  - W.P.No.5552-P-25-Muhammad-Usman-v_summary.txt  ->  [Documents]  organized_files/Documents/W.P.No.5552-P-25-Muhammad-Usman-v_summary.txt
+  - WhatsApp Image 2026-07-10 at 13.30.18.jpeg  ->  [Images]  organized_files/Images/WhatsApp Image 2026-07-10 at 13.30.18.jpeg
+  - Labour-Appeal-No.28-P2024-Asim-Nisar-Vs (1)_summary.txt  ->  [Documents]  organized_files/Documents/Labour-Appeal-No.28-P2024-Asim-Nisar-Vs (1)_summary.txt
+  - 989 M L D 4049.html  ->  [Documents]  organized_files/Documents/989 M L D 4049.html
+  - 993 M L D 1825.html  ->  [Documents]  organized_files/Documents/993 M L D 1825.html
+  - 988 P L C 528.html  ->  [Documents]  organized_files/Documents/988 P L C 528.html
+  - 993 C L C 1331.html  ->  [Documents]  organized_files/Documents/993 C L C 1331.html
+  - shc_caselaw_downloader (2).py  ->  [Scripts]  organized_files/Scripts/shc_caselaw_downloader (2).py
+  - ALT 2015 CA No. 86_2015 SC (2016SCMR1019).pdf  ->  [PDFs]  organized_files/PDFs/ALT 2015 CA No. 86_2015 SC (2016SCMR1019).pdf
+  - A Sample Judgment.docx  ->  [Documents]  organized_files/Documents/A Sample Judgment.docx
+  - Hafiz-Muhammad-tahir-v-Muhammad-salam-judgment-6.5_summary.txt  ->  [Documents]  organized_files/Documents/Hafiz-Muhammad-tahir-v-Muhammad-salam-judgment-6.5_summary.txt
+  - HC_Data_Availability.xlsx  ->  [Spreadsheets]  organized_files/Spreadsheets/HC_Data_Availability.xlsx
